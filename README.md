@@ -4,7 +4,7 @@
 ---
 
 ## 📖 Resumo Profissional
-Sou estudante e desenvolvedor focado em backend com Java e ecossistema Spring Boot, construindo APIs REST e aplicações web com integração a banco de dados relacionais. Tenho experiência prática com JDBC, JPA/Hibernate, arquitetura em camadas e desenvolvimento de projetos voltados para aplicações reais, incluindo sistemas ERP. Atualmente, também estou aprofundando meus estudos em SpringBoot e Docker, buscando evoluir profissionalmente para atuar como desenvolvedor backend e futuramente na área de dados.
+Sou estudante e desenvolvedor focado em backend com Java e ecossistema Spring Boot, construindo APIs REST e aplicações web com integração a banco de dados relacionais. Tenho experiência prática com JDBC, JPA/Hibernate, arquitetura em camadas e desenvolvimento de projetos voltados para aplicações reais, incluindo sistemas ERP. Atualmente, também estou aprofundando meus estudos em SpringBoot e Docker, buscando evoluir profissionalmente para atuar como desenvolvedor backend.
 
 ---
 
